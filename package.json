@@ -10,6 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "axios": "^1.7.4",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysqli": "^3.1.4",
+    "nodemon": "^3.1.4",
     "react": "18.2.0",
     "react-native": "0.74.5"
   },
